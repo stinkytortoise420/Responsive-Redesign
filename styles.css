@@ -1,5 +1,5 @@
 body {
-    background-image: url('imgs/White-Paper-Texture-Background-scaled.jpg');
+    background-image: url('./White-Paper-Texture-Background-scaled.jpg');
 }
 
 *, *::before, *::after {
